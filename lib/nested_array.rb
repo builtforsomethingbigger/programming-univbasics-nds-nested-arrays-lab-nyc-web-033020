@@ -46,6 +46,7 @@ def matrix_lookup(matrix, row, column)
   ]
   row = matrix[]
   column = matrix[][]
+  matrix_lookup[row][column]
 end
 
 def matrix_update(matrix, row, column, new_value)
