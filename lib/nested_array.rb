@@ -44,8 +44,8 @@ def matrix_lookup(matrix, row, column)
     CONVENTIONAL_PRODUCE.sort,
     ORGANIC_PRODUCE.sort
   ]
-  row = matrix[1]
-  column = matrix[1][1]
+  row = matrix[]
+  column = matrix[][]
 end
 
 def matrix_update(matrix, row, column, new_value)
